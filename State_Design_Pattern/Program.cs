@@ -6,7 +6,21 @@ namespace State_Design_Pattern
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            #region First State Implementation
+            Context context = new Context();
+
+            StartState startState = new StartState();
+            startState.doAction(context);
+
+            Console.WriteLine(context.getState().ToString());
+
+            StopState stopState = new StopState();
+            stopState.doAction(context);
+
+            Console.WriteLine(context.getState().ToString());
+            #endregion
+
+            Console.ReadKey();
         }
     }
 }
