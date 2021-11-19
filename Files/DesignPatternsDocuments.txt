@@ -1,2 +1,3 @@
 ##STATE DESIGN PATTERN##
 
+Nesnenin iç durumundaki deðiþikliklere göre çalýþma zamanýnda farklý davranýþlar sergilemesini saðlayan tasarým kalýbýdýr.
