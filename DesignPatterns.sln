@@ -7,8 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "State_Design_Pattern", "Sta
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Files", "Files", "{885A2686-A6BE-4304-BA56-3893D5E2B739}"
 	ProjectSection(SolutionItems) = preProject
-		DesignPatternsDocuments.txt = DesignPatternsDocuments.txt
-		Links.txt = Links.txt
+		Files\DesignPatternsDocuments.txt = Files\DesignPatternsDocuments.txt
+		Files\Links.txt = Files\Links.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{BACEDCBE-E6F3-4D82-A849-8444BB7B4CF3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "State_Design_Pattern", "State_Design_Pattern", "{B94F3C11-5DAF-4E56-8197-2BDBD54E8EEF}"
+	ProjectSection(SolutionItems) = preProject
+		Files\Images\State_Design_Pattern\state_design_pattern_uml1.jpg = Files\Images\State_Design_Pattern\state_design_pattern_uml1.jpg
 	EndProjectSection
 EndProject
 Global
@@ -24,6 +31,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BACEDCBE-E6F3-4D82-A849-8444BB7B4CF3} = {885A2686-A6BE-4304-BA56-3893D5E2B739}
+		{B94F3C11-5DAF-4E56-8197-2BDBD54E8EEF} = {BACEDCBE-E6F3-4D82-A849-8444BB7B4CF3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AEE670B5-AE86-45AE-B870-03A4DC7D9349}

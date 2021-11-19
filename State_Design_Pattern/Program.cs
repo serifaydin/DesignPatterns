@@ -20,6 +20,27 @@ namespace State_Design_Pattern
             Console.WriteLine(context.getState().ToString());
             #endregion
 
+            #region State Machine Work Flow Implementation
+            Car car = new Car();
+
+            Console.WriteLine($"State: {car.CurrentState}");
+
+            car.TakeAction(ActionEnum.Start);
+            Console.WriteLine($"State: {car.CurrentState}");
+
+            car.TakeAction(ActionEnum.Start);
+            Console.WriteLine($"State: {car.CurrentState}");
+
+            car.TakeAction(ActionEnum.Accelerate);
+            Console.WriteLine($"State: {car.CurrentState}");
+
+            car.TakeAction(ActionEnum.Stop);
+            Console.WriteLine($"State: {car.CurrentState}");
+
+            car.TakeAction(ActionEnum.Start);
+            Console.WriteLine($"State: {car.CurrentState}");
+            #endregion
+
             Console.ReadKey();
         }
     }
