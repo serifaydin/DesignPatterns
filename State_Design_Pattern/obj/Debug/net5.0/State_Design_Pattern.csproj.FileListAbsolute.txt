@@ -1,0 +1,16 @@
+C:\Users\serif.aydin\Desktop\DesignPatterns\State_Design_Pattern\bin\Debug\net5.0\State_Design_Pattern.exe
+C:\Users\serif.aydin\Desktop\DesignPatterns\State_Design_Pattern\bin\Debug\net5.0\State_Design_Pattern.deps.json
+C:\Users\serif.aydin\Desktop\DesignPatterns\State_Design_Pattern\bin\Debug\net5.0\State_Design_Pattern.runtimeconfig.json
+C:\Users\serif.aydin\Desktop\DesignPatterns\State_Design_Pattern\bin\Debug\net5.0\State_Design_Pattern.runtimeconfig.dev.json
+C:\Users\serif.aydin\Desktop\DesignPatterns\State_Design_Pattern\bin\Debug\net5.0\State_Design_Pattern.dll
+C:\Users\serif.aydin\Desktop\DesignPatterns\State_Design_Pattern\bin\Debug\net5.0\ref\State_Design_Pattern.dll
+C:\Users\serif.aydin\Desktop\DesignPatterns\State_Design_Pattern\bin\Debug\net5.0\State_Design_Pattern.pdb
+C:\Users\serif.aydin\Desktop\DesignPatterns\State_Design_Pattern\obj\Debug\net5.0\State_Design_Pattern.csproj.AssemblyReference.cache
+C:\Users\serif.aydin\Desktop\DesignPatterns\State_Design_Pattern\obj\Debug\net5.0\State_Design_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serif.aydin\Desktop\DesignPatterns\State_Design_Pattern\obj\Debug\net5.0\State_Design_Pattern.AssemblyInfoInputs.cache
+C:\Users\serif.aydin\Desktop\DesignPatterns\State_Design_Pattern\obj\Debug\net5.0\State_Design_Pattern.AssemblyInfo.cs
+C:\Users\serif.aydin\Desktop\DesignPatterns\State_Design_Pattern\obj\Debug\net5.0\State_Design_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\serif.aydin\Desktop\DesignPatterns\State_Design_Pattern\obj\Debug\net5.0\State_Design_Pattern.dll
+C:\Users\serif.aydin\Desktop\DesignPatterns\State_Design_Pattern\obj\Debug\net5.0\ref\State_Design_Pattern.dll
+C:\Users\serif.aydin\Desktop\DesignPatterns\State_Design_Pattern\obj\Debug\net5.0\State_Design_Pattern.pdb
+C:\Users\serif.aydin\Desktop\DesignPatterns\State_Design_Pattern\obj\Debug\net5.0\State_Design_Pattern.genruntimeconfig.cache
