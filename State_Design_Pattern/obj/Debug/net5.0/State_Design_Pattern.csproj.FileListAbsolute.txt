@@ -14,3 +14,5 @@ C:\Users\serif.aydin\Desktop\DesignPatterns\State_Design_Pattern\obj\Debug\net5.
 C:\Users\serif.aydin\Desktop\DesignPatterns\State_Design_Pattern\obj\Debug\net5.0\ref\State_Design_Pattern.dll
 C:\Users\serif.aydin\Desktop\DesignPatterns\State_Design_Pattern\obj\Debug\net5.0\State_Design_Pattern.pdb
 C:\Users\serif.aydin\Desktop\DesignPatterns\State_Design_Pattern\obj\Debug\net5.0\State_Design_Pattern.genruntimeconfig.cache
+C:\Users\serif.aydin\Desktop\DesignPatterns\State_Design_Pattern\bin\Debug\net5.0\stateless.dll
+C:\Users\serif.aydin\Desktop\DesignPatterns\State_Design_Pattern\obj\Debug\net5.0\State_Design_Pattern.csproj.CopyComplete

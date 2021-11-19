@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SkcTOZa9uT25tsbO0vR5DF+dxukoENnLQw9LJPCwTc9VjC7EsIIsiJLrWEXfzlMxJT0XG4fWO3aHQvXEyvU3Tg==",
+  "dgSpecHash": "AmbdVv0AEJ8t589JumDarJ3AxL5+Hn/GloTYjZKoI+G6HYB1kggGHs2ImjM5vUS04dz51HDxz2w71R399T7fhg==",
   "success": true,
   "projectFilePath": "C:\\Users\\serif.aydin\\Desktop\\DesignPatterns\\State_Design_Pattern\\State_Design_Pattern.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\serif.aydin\\.nuget\\packages\\stateless\\5.11.0\\stateless.5.11.0.nupkg.sha512"
+  ],
   "logs": []
 }
