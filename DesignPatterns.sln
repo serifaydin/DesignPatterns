@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Files", "Files", "{885A2686-A6BE-4304-BA56-3893D5E2B739}"
 	ProjectSection(SolutionItems) = preProject
 		DesignPatternsDocuments.txt = DesignPatternsDocuments.txt
+		Links.txt = Links.txt
 	EndProjectSection
 EndProject
 Global
