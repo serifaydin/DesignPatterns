@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AmbdVv0AEJ8t589JumDarJ3AxL5+Hn/GloTYjZKoI+G6HYB1kggGHs2ImjM5vUS04dz51HDxz2w71R399T7fhg==",
+  "dgSpecHash": "B+FcojQQFs6yvu48kQRO4JPPwMA10LmxgrxL10rC0klIR/IQ7B1s8vTGu0U60jjybZLifM/eEnMn0C0W87D/tQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\serif.aydin\\Desktop\\DesignPatterns\\State_Design_Pattern\\State_Design_Pattern.csproj",
+  "projectFilePath": "D:\\GitHub\\DesignPatterns\\State_Design_Pattern\\State_Design_Pattern.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\serif.aydin\\.nuget\\packages\\stateless\\5.11.0\\stateless.5.11.0.nupkg.sha512"
+    "C:\\Users\\serif\\.nuget\\packages\\stateless\\5.11.0\\stateless.5.11.0.nupkg.sha512"
   ],
   "logs": []
 }
