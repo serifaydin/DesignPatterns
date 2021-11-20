@@ -27,12 +27,15 @@ BEHAVIORAL PATTERNS (DAVRANIÞSAL KALIPLAR)
 -Davranýþ örüntüleri iþlevsel sorumluluklarýn nesneler arasýnda nasýl atanacaðý ve yazýlýmýn gerektirdiði çözüm yöntemlerinin nesnelerce nasýl kullanýlacaðý hakkýnda öneriler sunar.
 -Davranýþ örüntüleri nesne ve sýnýf kalýplarý yaný sýra nesneler arasýndaki iletiþim ile ilgili örüntüler de sunar.
 
-STATE DESIGN PATTERN & STATE MACHINE WORK FLOW
+------STATE DESIGN PATTERN & STATE MACHINE WORK FLOW-----
 
 -Nesnenin iç durumundaki deðiþikliklere göre çalýþma zamanýnda farklý davranýþlar sergilemesini saðlayan tasarým kalýbýdýr.
 -State pattern, Behavioral bir patterndir.
 -State ve akýþýn kontrol edileceði yapýlarda kullanýlýr.
 
+STATELESS
+
+----------------------------------------------------------
 
 
 ----------------------------------------------------BEHAVIORAL PATTERNS END------------------------------------

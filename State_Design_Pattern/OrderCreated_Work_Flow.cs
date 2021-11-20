@@ -34,7 +34,9 @@ namespace State_Design_Pattern
 
             carStateless.Configure(OrderStatusEnum.START)
                .Permit(OrderActionEnum.STOCK, OrderStatusEnum.RUNNING)
-               .OnEntry(a => Console.WriteLine("STOCK : "+a.Source + " - " + a.Destination));
+               .OnEntry(a => Console.WriteLine("STOCK : " + a.Source + " - " + a.Destination))
+               .OnEntry(a => CheckStock(1, a.Source.ToString(), a.Destination.ToString()))
+               .OnExit(OnDeassigned);
 
             carStateless.Configure(OrderStatusEnum.RUNNING)
                 .Permit(OrderActionEnum.ALLOCATION, OrderStatusEnum.STOP)
@@ -49,14 +51,24 @@ namespace State_Design_Pattern
             carStateless.Fire(OrderActionEnum.STOCK);
             Console.WriteLine($"State: {externalState}");
 
-            //carStateless.Fire(OrderActionEnum.TASK);
-            //Console.WriteLine($"State: {externalState}");
+            carStateless.Fire(OrderActionEnum.TASK);
+            Console.WriteLine($"State: {externalState}");
 
             carStateless.Fire(OrderActionEnum.ROBOT);
             Console.WriteLine($"State: {externalState}");
 
             carStateless.Fire(OrderActionEnum.ALLOCATION);
             Console.WriteLine($"State: {externalState}");
+        }
+
+        public void CheckStock(long orderId, string SourceStatu, string DestinationStatu)
+        {
+            Console.WriteLine(orderId + " - " + SourceStatu + " - " + DestinationStatu);
+        }
+
+        private void OnDeassigned()
+        {
+            Console.WriteLine("OnExit esnasında çalışan event.");
         }
     }
 }
