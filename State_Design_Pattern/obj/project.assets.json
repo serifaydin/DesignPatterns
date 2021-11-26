@@ -45,23 +45,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\serif\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\serif.aydin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\DesignPatterns\\State_Design_Pattern\\State_Design_Pattern.csproj",
+      "projectUniqueName": "C:\\Users\\serif.aydin\\Desktop\\DesignPatterns\\State_Design_Pattern\\State_Design_Pattern.csproj",
       "projectName": "State_Design_Pattern",
-      "projectPath": "D:\\GitHub\\DesignPatterns\\State_Design_Pattern\\State_Design_Pattern.csproj",
-      "packagesPath": "C:\\Users\\serif\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\DesignPatterns\\State_Design_Pattern\\obj\\",
+      "projectPath": "C:\\Users\\serif.aydin\\Desktop\\DesignPatterns\\State_Design_Pattern\\State_Design_Pattern.csproj",
+      "packagesPath": "C:\\Users\\serif.aydin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\serif.aydin\\Desktop\\DesignPatterns\\State_Design_Pattern\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\serif\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\serif.aydin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -107,7 +103,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

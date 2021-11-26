@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = State_Design_Pattern
-build_property.ProjectDir = D:\GitHub\DesignPatterns\State_Design_Pattern\
+build_property.ProjectDir = C:\Users\serif.aydin\Desktop\DesignPatterns\State_Design_Pattern\
